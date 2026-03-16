@@ -1,5 +1,3 @@
-# Mini_guia_de_Cibersegurança
-
 # 🛡️ CyberDefend-Notebook: Ilustrando Aprendizado de Cibersegurança com NotebookLM
 
 Este repositório documenta a criação e o uso de um **Caderno Temático no NotebookLM** voltado para Operações de Blue Team e Certificações Práticas de Cibersegurança. 
